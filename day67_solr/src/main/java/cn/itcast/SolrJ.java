@@ -19,6 +19,8 @@ public class SolrJ {
     @Test
     public  void test1() {
         System.out.println("这是Coder B提交的代码,注意查收");
+
+        System.out.println("这是Coder B第二次提交代码了....");
     }
 
     /**
