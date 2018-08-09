@@ -16,6 +16,11 @@ public class SolrJ {
         System.out.println("这是Coder A提交的代码,注意查收");
     }
 
+    @Test
+    public  void test1() {
+        System.out.println("这是Coder B提交的代码,注意查收");
+    }
+
     /**
      * 需求: 添加及更新索引库
      *  特点:
